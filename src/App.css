@@ -1,0 +1,117 @@
+<<<<<<< HEAD
+
+/* .header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+.logo {
+  width: 100px;
+  padding-left: 30px;
+}
+.nav-items{
+  padding: 0px 20px;
+}
+.nav-items > ul {
+  display: flex;
+  list-style-type: none;
+  font-size: 24px;
+}
+.nav-items > ul > li {
+  padding: 10px;
+  margin: 10px;
+}
+.res-logo
+{
+    width: 100%;
+   
+}
+.res-card
+{
+  padding: 5px;
+  width:200px;
+  margin: 5px;
+  
+}
+.res-card:hover
+{
+  border: 1px solid black;
+  cursor: pointer;
+}
+.res-container
+{
+  flex-wrap: wrap;
+  display:flex;
+}
+.filter-btn
+{
+  margin:10px;
+  cursor: pointer;
+}
+.shimmer-card
+{
+  width:200px;
+  height: 400px;
+  background-color:gray;
+  margin:21px;
+
+}
+.container
+{
+  display: flex;
+}
+.login
+{
+  padding: 0 20px;
+}
+.filter{
+  display: flex;
+}
+.btncount
+{
+  padding: 20px 40px;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+=======
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+>>>>>>> 26d3ea1 (first commit)

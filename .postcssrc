@@ -1,0 +1,12 @@
+//this file is configuration for posrcssrc
+// {
+//     "plugins": {
+//       "tailwindcss":{}
+//      }
+// }
+module.exports = {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    }
+  }
