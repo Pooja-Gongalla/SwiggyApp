@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 /* .header {
   display: flex;
@@ -75,8 +75,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-=======
-.App {
+
+/* .App {
   text-align: center;
 }
 
@@ -114,4 +114,4 @@
     transform: rotate(360deg);
   }
 }
->>>>>>> 26d3ea1 (first commit)
+ */
